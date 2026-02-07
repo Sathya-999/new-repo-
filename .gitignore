@@ -80,3 +80,14 @@ Desktop.ini
 *.sqlite
 *.sql
 config/database.properties
+
+# Image files
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.bmp
+*.svg
+*.webp
+*.ico
+*.tiff
